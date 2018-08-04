@@ -1,0 +1,1 @@
+# sigma-simple-authenticator
